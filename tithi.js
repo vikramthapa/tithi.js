@@ -75,7 +75,7 @@
   }
 
   function getBsMonthName(mn) {
-              return  (mn>=0&&mn<12)?(["Jestha", "Ashad", "Shrawan", "Bhadra", "Ashwin", "Kartik", "Mangsir", "Poush", "Magh", "Falgun", "Chaitra"])[mn]: "Invalid"
+              return  (mn>=0&&mn<12)?(["Baisakh","Jestha", "Ashad", "Shrawan", "Bhadra", "Ashwin", "Kartik", "Mangsir", "Poush", "Magh", "Falgun", "Chaitra"])[mn]: "Invalid"
    }
 
   function getWeekDayName(wd){
