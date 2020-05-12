@@ -28,5 +28,8 @@ or,
 
 Example:
     > node tithi.min.js
-    output: 30 Baisakh, 2077
+    ---
+     output: 
+     30 Baisakh, 2077
 
+# ENJOY CODING ;) 
