@@ -21,15 +21,18 @@ Tithi.js is a compact  bikram sambat date converter (nepali date converter, AD t
   <script src="path_to_javascript/tithi.min.js"></script>
 3) Call required function like toBs(new Date), toAd(d,m,y) etc.
 
-or,
+## or,
+
 ### In nodejs application
 1) Download the tithi.min.js
 2) Run code in your nodejs app.
 
 Example:
     > node tithi.min.js
-    ---
-     output: 
+    
+----------------------------------------------------------------------
+    
+    output: 
      30 Baisakh, 2077
 
-# ENJOY CODING ;) 
+### ENJOY CODING :wink: :v: :wink:
