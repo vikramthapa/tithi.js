@@ -11,5 +11,22 @@ Tithi.js is a compact  bikram sambat date converter (nepali date converter, AD t
 - Hackable : Readable codes
 - Suitable for heavy date convertion like date column in a table etc.
 
-Minification:
+## Minification:
 - Minify the code from https://jscompress.com/ or any other tools like minifyjs etc.
+
+## How to use:
+### In Web application
+1) Download the tithi.min.js or tithi.js
+2) include below code in <head> element of your web application
+  <script src="path_to_javascript/tithi.min.js"></script>
+3) Call required function like toBs(new Date), toAd(d,m,y) etc.
+
+or,
+### In nodejs application
+1) Download the tithi.min.js
+2) Run code in your nodejs app.
+
+Example:
+    > node tithi.min.js
+    output: 30 Baisakh, 2077
+
